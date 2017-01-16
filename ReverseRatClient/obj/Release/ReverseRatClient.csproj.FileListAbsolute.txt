@@ -1,0 +1,8 @@
+D:\RATS\ReverseRat\ReverseRatClient\ReverseRatClient\bin\Release\ReverseRatClient.exe
+D:\RATS\ReverseRat\ReverseRatClient\ReverseRatClient\bin\Release\ReverseRatClient.pdb
+D:\RATS\ReverseRat\ReverseRatClient\ReverseRatClient\obj\Release\ResolveAssemblyReference.cache
+D:\RATS\ReverseRat\ReverseRatClient\ReverseRatClient\obj\Release\ReverseRatClient.Form1.resources
+D:\RATS\ReverseRat\ReverseRatClient\ReverseRatClient\obj\Release\ReverseRatClient.Properties.Resources.resources
+D:\RATS\ReverseRat\ReverseRatClient\ReverseRatClient\obj\Release\ReverseRatClient.csproj.GenerateResource.Cache
+D:\RATS\ReverseRat\ReverseRatClient\ReverseRatClient\obj\Release\ReverseRatClient.exe
+D:\RATS\ReverseRat\ReverseRatClient\ReverseRatClient\obj\Release\ReverseRatClient.pdb

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ReverseRatClient">
+</Property><Property Name="Solution File" Value="D:\RATS\ReverseRat\ReverseRatClient\ReverseRatClient.sln">
+</Property><Property Name="Date" Value="Sunday, January 15, 2017">
+</Property><Property Name="Time" Value="8:51 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ReverseRatClient.sln" Description="File successfully backed up as D:\RATS\ReverseRat\ReverseRatClient\Backup\ReverseRatClient.sln">
+</Event><Event ErrorLevel="0" Project="ReverseRatClient" Source="ReverseRatClient\ReverseRatClient.csproj" Description="Project file successfully backed up as D:\RATS\ReverseRat\ReverseRatClient\Backup\ReverseRatClient\ReverseRatClient.csproj">
+</Event><Event ErrorLevel="0" Project="ReverseRatClient" Source="ReverseRatClient\Form1.cs" Description="File successfully backed up as D:\RATS\ReverseRat\ReverseRatClient\Backup\ReverseRatClient\Form1.cs">
+</Event><Event ErrorLevel="0" Project="ReverseRatClient" Source="ReverseRatClient\Form1.Designer.cs" Description="File successfully backed up as D:\RATS\ReverseRat\ReverseRatClient\Backup\ReverseRatClient\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ReverseRatClient" Source="ReverseRatClient\Program.cs" Description="File successfully backed up as D:\RATS\ReverseRat\ReverseRatClient\Backup\ReverseRatClient\Program.cs">
+</Event><Event ErrorLevel="0" Project="ReverseRatClient" Source="ReverseRatClient\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\RATS\ReverseRat\ReverseRatClient\Backup\ReverseRatClient\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ReverseRatClient" Source="ReverseRatClient\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\RATS\ReverseRat\ReverseRatClient\Backup\ReverseRatClient\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ReverseRatClient" Source="ReverseRatClient\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\RATS\ReverseRat\ReverseRatClient\Backup\ReverseRatClient\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ReverseRatClient" Source="ReverseRatClient\Properties\Settings.settings" Description="File successfully backed up as D:\RATS\ReverseRat\ReverseRatClient\Backup\ReverseRatClient\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="ReverseRatClient" Source="ReverseRatClient\icon.ICO" Description="File successfully backed up as D:\RATS\ReverseRat\ReverseRatClient\Backup\ReverseRatClient\icon.ICO">
+</Event><Event ErrorLevel="0" Project="ReverseRatClient" Source="ReverseRatClient\Form1.resx" Description="File successfully backed up as D:\RATS\ReverseRat\ReverseRatClient\Backup\ReverseRatClient\Form1.resx">
+</Event><Event ErrorLevel="0" Project="ReverseRatClient" Source="ReverseRatClient\Properties\Resources.resx" Description="File successfully backed up as D:\RATS\ReverseRat\ReverseRatClient\Backup\ReverseRatClient\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="ReverseRatClient" Source="ReverseRatClient\ReverseRatClient.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ReverseRatClient" Source="ReverseRatClient\ReverseRatClient.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ReverseRatClient.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ReverseRatClient.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ReverseRatClient" Source="ReverseRatClient\ReverseRatClient.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
